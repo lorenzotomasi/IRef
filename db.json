@@ -1,0 +1,2166 @@
+{
+  "game": [
+    {
+      "game_id": "7FB48972-457A-7085-BB08-CD4D47706419",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde",
+      "away_team_color": "rosso",
+      "date": "2020-08-06T17:30:39-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "7D665197-D519-6907-D809-39BA68B6A21E",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-06-02T15:16:25-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "4E04855D-D6E8-834B-8371-12B6577F9865",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-12-12T07:12:14-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "6948BF20-DDBC-C34A-0266-836E8459EDD3",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-06-13T20:42:15-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "8905D4CA-9080-2AED-057F-D4BADC9AF930",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-11-23T13:55:26-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "C8F3437C-897F-A1C3-C77E-34C79153226E",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-04-05T03:57:59-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "752D4E94-F0E5-6BA1-9C30-E97638A40351",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-02-03T06:28:27-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "05F22F19-50D4-2391-F314-6F0185611F01",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-04-22T20:35:41-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "1A642C06-E55C-8370-D643-FC6F9135D4DC",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-10-10T23:19:38-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "08EE8D7B-7D7B-7182-650D-7B62634686C0",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-06-11T15:32:51-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "62B977B6-EE00-7221-3A9B-EB56BDB31F21",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-05-06T05:19:38-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "E1BBDD0B-F406-E3C4-218D-DE4CAD599D00",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-07-03T23:41:57-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "7FE150E5-C977-F688-4F67-88B1FB3AF9FE",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-01-08T01:34:36-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "21A39233-6107-D054-8C60-ADB390F58824",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-01-30T17:03:02-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "3931994F-E14D-E105-6D40-80FDB2D56F65",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-09-16T02:30:34-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "426C81E8-D812-C6FA-28A4-32AFE5875453",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-01-01T14:45:43-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "97CAA834-8154-8B7E-5E4A-80746C416AFB",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-08-30T15:09:46-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "55E9F236-A60A-E7EE-4D9F-72D7D9EB4285",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-02-06T16:37:55-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "C5229D52-9BD0-8C0E-0F29-E344673266EB",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2020-10-26T09:11:24-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "0723669A-EF30-E6E6-F857-6973B6C7D792",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-11-15T04:53:58-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "8418C858-A32B-9951-421A-7FE0ECAFAF83",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2020-11-25T13:19:37-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "27ACD0BE-B8AF-F1C5-066F-ED01B4098739",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2020-07-10T04:37:38-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "D3A906B4-6173-19E6-A678-6A3FC0C64FB1",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-06-09T10:47:06-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "4D8E91EC-D13D-C222-08C0-A137F9CC24E8",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-11-25T11:11:35-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "80DA25A3-F148-C959-356A-0DC09088BAA6",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-09-16T13:57:27-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "D411BCC7-F50B-64C5-7421-A38021E0ABA3",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-10-10T22:40:16-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "9CA9A065-8532-3D73-1BE7-3BDBAE28E568",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-09-28T12:30:48-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "8E991759-0CD4-1D48-8C76-5885F64CD2B1",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2020-07-18T09:40:28-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "A6BB5B31-31EE-E85D-4BDB-55CB30D3F07C",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-01-04T04:58:31-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "0D1FBA2F-E2AB-E3D1-2C63-29F23E0F4AD0",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-12-15T07:28:35-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "823A563E-781C-0282-2825-8BFB1A855D05",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-07-03T20:57:56-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "AF9C0705-7AD2-9D97-179C-59DFEFB62B1F",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-05-07T05:42:23-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "412A459C-1DD1-E88B-2C09-CF4419CAF4B2",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-06-25T02:03:20-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "94056EEF-3E5D-0A11-699A-50E254B3851B",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-03-20T21:35:48-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "F5EA3FC5-DC48-6AFB-BBC9-DCBDA3C08B2F",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-01-11T18:10:53-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "5EF0850C-67FB-48AA-D862-8EA87B57FB5A",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-11-10T02:19:01-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "B17FD2C3-16E3-8C94-5B46-C6C3C8BA8ED9",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-05-11T04:30:53-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "64EA6660-109F-A348-7306-96E2B20A3201",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2020-07-30T08:08:05-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "85C1396B-354F-423A-0ED6-93EAE51D0876",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-05-24T18:10:21-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "A9A33046-084F-4A85-DDBC-FDFF22B5F6DE",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-12-04T20:25:11-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "B31468B1-8E87-834C-BCC3-6A920986CC9A",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-02-20T08:14:06-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "7820DAD2-AB4E-9078-3695-6F46B93876F1",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2020-10-02T02:25:18-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "78F665F6-80F6-3D64-A484-C9CA878D185B",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-02-10T07:24:20-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "0A863EE0-B00B-50C0-A9FE-51B143921973",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-03-01T09:45:27-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "0EE7EEA9-E9D6-54C3-C1DF-C9245CE726B3",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-03-11T16:51:10-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "2EA321B8-8BF2-5A9C-1337-4103B5E4EC20",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-11-10T19:49:29-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "15CC8957-8567-7517-83CA-F1A13C8D049B",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-01-05T04:54:17-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "6F6AEC03-FF82-D03C-5F8D-643505242E2F",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-09-17T10:25:31-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "B7B5EF2E-A329-2F7B-3AD3-39A470CAFE6A",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-07-16T23:43:13-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "9EA215EB-A842-5A5D-9922-800FAEF08D75",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2020-07-08T14:03:42-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "A21EEE12-905B-AD49-8ACB-C67FAD1B787E",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-04-26T08:32:35-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "B3A149A3-F717-2B02-DD39-5654BF346678",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-04-06T02:19:51-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "42E7736A-D7F4-D619-D79F-73B848A0ED53",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-03-03T07:01:32-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "E4A91A41-8759-491A-6CCE-D028CF2876DD",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-04-04T10:36:43-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "957B06FB-91EC-957D-007B-3246C7CFA01D",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-02-18T10:17:38-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "E4587503-DC04-A631-2046-33B16BC51BE7",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-03-30T00:26:49-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "DC4AD8EE-6DC6-0B86-23C1-E21EFDE8C92D",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-06-22T01:46:18-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "A22EB8C9-F403-47BF-717A-6F91A3E017C1",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-07-01T02:15:05-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "9D9736BD-CEDE-A5A6-E4B2-E1912E164A53",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-10-08T01:49:25-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "0E05B345-964F-64BA-B966-FA08E7C9B5D9",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-05-19T20:33:58-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "FF663ECF-06F7-E46D-003F-6DF67F3F0DD6",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-10-23T04:11:14-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "BD669F27-28A9-B816-7009-1A98BCED7914",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-04-03T18:08:12-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "25B92341-2D40-7A09-BD98-82174308BB3A",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-03-11T04:41:11-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "E9F151A6-9382-FABC-65B1-32E2604B9985",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-10-28T18:35:17-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "7C87A570-A65F-A518-3C7C-7B53C485F612",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-01-12T16:20:27-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "8741C3C7-1185-5AA4-C681-E194075FBE97",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2020-08-17T01:30:54-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "D72CC108-151D-4400-8E7B-A64B09BCA0BC",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-01-07T17:19:43-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "09C538EF-DB40-9ED4-C696-5190ABA7AA71",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-01-09T21:05:23-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "B2D793D6-DF65-45E4-0EAC-2AAC86946250",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-02-27T03:45:34-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "5E61F694-DB04-2276-039A-8BD84FE1BF61",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-10-09T10:50:02-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "472BB578-E308-4BCB-9384-16869077B2A6",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-10-30T18:39:43-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "98A3EABB-6C96-5BAC-6B58-BF8EB9424A38",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-11-26T04:25:33-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "4A4FA881-1C42-0486-59E1-8BC635C81EFD",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-02-12T11:29:39-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "6F488F8E-C128-FF2A-FAF7-73F7123ABD32",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-06-19T08:25:27-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "90954CE3-FF93-D320-5EF3-636734A9511D",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2020-08-09T17:34:31-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "48E0F0D0-8C53-5212-1FBF-353FF6E0DB82",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-11-06T00:05:38-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "06B3A3F8-F29A-3D2A-88A8-8934C694B483",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-12-03T10:27:50-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "AF910F15-D64B-67B2-9FCB-E8DA74E0D9A4",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-12-31T14:28:15-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "A2B07FE0-2E31-98DD-36FB-9C355AB328A6",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-11-23T21:40:34-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "482AA0B3-F5F3-F2CC-89D8-6F4B5B013BE3",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-03-02T19:14:56-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "6D780A8E-E855-AE70-EBC2-E931BA9C3BC6",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-10-26T03:11:01-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "0E3337CB-AB63-571A-4971-C52D961DCBD8",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-01-03T22:34:01-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "123A0A51-AA42-5363-CFF4-90CE100D7FB5",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-04-01T23:28:51-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "C2094C6B-991E-FB02-E13A-7CFDFDD0ADB5",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-08-04T13:16:43-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "BC69CA40-AC02-678C-41FD-55761E653E0B",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-12-01T13:25:02-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "10D3F980-5B82-EF7D-339A-BBCB6065A9F6",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-02-26T00:16:11-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "C38B02EB-FEE4-8429-CEEC-83C88A52D202",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2020-09-25T20:44:50-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "6088E333-55A1-301E-6340-766805582199",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-10-26T10:47:07-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "67166A4E-3902-88D9-8F06-686DBB6C468E",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-04-11T12:44:41-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "EFE334EC-61A2-531A-016A-B8FF5AE86FF7",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-04-13T08:31:36-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "29645998-1E2A-46AE-5743-795F1994930F",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-01-15T17:06:27-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "7FA23994-F335-9554-BECE-2126AEAD9A4E",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-02-19T01:10:16-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "E52D030B-D39C-9059-A04B-53EDCCEB2A96",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-06-11T02:56:09-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "3FFB0B9B-CB07-3CFA-BE17-4D7D892E65C0",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-09-16T22:37:45-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "550545FB-D1BF-F6F1-E45B-A0354D931C9A",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-05-17T12:35:40-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "DD05B736-00D5-31D2-172C-9F21D5D0D9FA",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-04-29T07:13:29-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "81ABA5D4-7D75-BFD1-9A2F-A629DE7D9A4E",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " nero",
+      "away_team_color": "rosso",
+      "date": "2021-06-27T01:53:20-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "2C66BEFB-7021-79B4-735B-73FCF3C9C61A",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2021-05-18T21:52:10-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "518D5A40-5E98-9060-EC00-694F427B2152",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": " bianco ",
+      "away_team_color": "rosso",
+      "date": "2021-01-02T01:26:58-08:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    },
+    {
+      "game_id": "8E6AB0A4-1E90-0E9B-E8ED-69D538EB943B",
+      "home_team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "away_team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "home_team_color": "verde ",
+      "away_team_color": "rosso",
+      "date": "2020-10-09T14:15:45-07:00",
+      "ufficial_start_time": "10.00",
+      "start_time": "10.00",
+      "end_time": "11.30"
+    }
+  ],
+  "player": [
+    {
+      "player_id": "BAEFD069-B061-A2FE-F3B9-FEB889DBD7C1",
+      "name": "Alea",
+      "surname": "Poole"
+    },
+    {
+      "player_id": "2ABD2067-5701-ABD1-39CA-B6D51998A34D",
+      "name": "Chanda",
+      "surname": "Gardner"
+    },
+    {
+      "player_id": "6148DA83-F77A-A338-8137-7814B04BB5E1",
+      "name": "Elaine",
+      "surname": "Bruce"
+    },
+    {
+      "player_id": "8D056FA2-ACFC-293F-75FA-BF65237FC985",
+      "name": "Fleur",
+      "surname": "Horton"
+    },
+    {
+      "player_id": "3666349A-A26D-0034-F70C-F017A640CDF7",
+      "name": "Wang",
+      "surname": "Russo"
+    },
+    {
+      "player_id": "9FECB618-D94F-A8B3-D730-41C8EBB0615A",
+      "name": "Finn",
+      "surname": "Melendez"
+    },
+    {
+      "player_id": "4D39928A-63EC-A267-2346-DC9E32EE2AF9",
+      "name": "Nola",
+      "surname": "Lambert"
+    },
+    {
+      "player_id": "F641833E-19F0-F2A2-CFE7-115706909604",
+      "name": "Murphy",
+      "surname": "Mendez"
+    },
+    {
+      "player_id": "D36772F8-8499-CA80-00A0-8B8DC22D3157",
+      "name": "Oliver",
+      "surname": "Perry"
+    },
+    {
+      "player_id": "A4F0EAE6-01DF-46EC-692B-D116C7941120",
+      "name": "Kyla",
+      "surname": "Sheppard"
+    },
+    {
+      "player_id": "3D81B99E-5C48-0D26-0B7C-A2697349C8DB",
+      "name": "Hanae",
+      "surname": "Hendricks"
+    },
+    {
+      "player_id": "88B2ECA3-08EE-E9FC-77CA-5B0A72231C12",
+      "name": "Debra",
+      "surname": "Dickerson"
+    },
+    {
+      "player_id": "9C30570D-B80E-E4BF-266F-F14C82BD1384",
+      "name": "Hannah",
+      "surname": "Mendoza"
+    },
+    {
+      "player_id": "E24E8FFA-303A-18CA-EC06-F375776FE4B0",
+      "name": "Mari",
+      "surname": "Crosby"
+    },
+    {
+      "player_id": "11095769-16CE-EDE2-7538-C371864B4BBE",
+      "name": "Susan",
+      "surname": "Coleman"
+    },
+    {
+      "player_id": "A284D69E-2184-E45C-585C-440598198DF8",
+      "name": "Zachary",
+      "surname": "Carter"
+    },
+    {
+      "player_id": "62F92124-D96E-CBFD-3AA0-D16A26C14851",
+      "name": "Raphael",
+      "surname": "Valenzuela"
+    },
+    {
+      "player_id": "54794C95-E3A7-8C7F-1B42-69910D927363",
+      "name": "Charles",
+      "surname": "Merrill"
+    },
+    {
+      "player_id": "9057327F-9FDF-066C-9B4D-C6F9526CE863",
+      "name": "Constance",
+      "surname": "Lowe"
+    },
+    {
+      "player_id": "80A94BDC-F1A4-EFA3-4B3B-08C5F728CA62",
+      "name": "Gray",
+      "surname": "Coffey"
+    },
+    {
+      "player_id": "CE5BF9D2-1D5A-94E4-C0E5-CD8EAF466CF9",
+      "name": "Lyle",
+      "surname": "Lyons"
+    },
+    {
+      "player_id": "FBD3C2D8-EB97-9EFC-14BB-541E222AD418",
+      "name": "Quyn",
+      "surname": "Austin"
+    },
+    {
+      "player_id": "C996017E-93E3-B653-1B28-F3E4E15D648A",
+      "name": "Erica",
+      "surname": "Trevino"
+    },
+    {
+      "player_id": "C41F8835-55A2-7379-8181-E7A8DA8A72EA",
+      "name": "Keefe",
+      "surname": "Jenkins"
+    },
+    {
+      "player_id": "CD0FE8A5-76D3-2333-DB49-D1B729B6B0EF",
+      "name": "Cara",
+      "surname": "Neal"
+    },
+    {
+      "player_id": "672361B0-2F22-F2BA-38F0-847DC5031AF9",
+      "name": "Callum",
+      "surname": "Cook"
+    },
+    {
+      "player_id": "409CD8C6-618A-E3D2-5631-5EC47ABC6F5B",
+      "name": "Violet",
+      "surname": "Gomez"
+    },
+    {
+      "player_id": "B2610ACA-5E95-CB23-A083-EEA7CB15B477",
+      "name": "Jana",
+      "surname": "Trujillo"
+    },
+    {
+      "player_id": "F5FF708F-7A73-3397-EC9F-C558AE034267",
+      "name": "Darrel",
+      "surname": "Owens"
+    },
+    {
+      "player_id": "5D505281-20B7-7F9F-E1D1-408BC5BCD9BE",
+      "name": "Ronan",
+      "surname": "Lambert"
+    },
+    {
+      "player_id": "9BE76AE7-49A1-B4B9-BE86-48333B116E1C",
+      "name": "Kuame",
+      "surname": "Gross"
+    },
+    {
+      "player_id": "E93E02C7-7B32-F329-784F-43FDCFE0D548",
+      "name": "Aspen",
+      "surname": "Russell"
+    },
+    {
+      "player_id": "85DA1943-3CD4-E2C6-4DCA-5415A188EDA4",
+      "name": "Quin",
+      "surname": "Peters"
+    },
+    {
+      "player_id": "65A5836D-18E8-A348-CC8B-3B4BE3543356",
+      "name": "Leonard",
+      "surname": "Tate"
+    },
+    {
+      "player_id": "46F000F3-9AF8-A8D1-B20C-70050E475748",
+      "name": "Imelda",
+      "surname": "Slater"
+    },
+    {
+      "player_id": "D52B0EB3-944E-BE65-C605-EEA5F57D467E",
+      "name": "Cain",
+      "surname": "Workman"
+    },
+    {
+      "player_id": "6861C62C-CBA7-97F2-9F9E-CC1BA34366AD",
+      "name": "John",
+      "surname": "Crane"
+    },
+    {
+      "player_id": "F9E8B145-53C6-D50A-838A-A96BA8B415B7",
+      "name": "Tobias",
+      "surname": "Small"
+    },
+    {
+      "player_id": "ABF95C81-D16C-B26B-0E96-4E42D6A0F2BA",
+      "name": "Palmer",
+      "surname": "Conley"
+    },
+    {
+      "player_id": "56CFE812-3F49-2C55-4553-8E3BF151B848",
+      "name": "Justin",
+      "surname": "Crosby"
+    },
+    {
+      "player_id": "B0B459C3-6222-2F8E-B953-C401C496CBC7",
+      "name": "Daniel",
+      "surname": "Becker"
+    },
+    {
+      "player_id": "816827B1-9D20-D2A3-F3A1-C8B24BEEB99E",
+      "name": "Vincent",
+      "surname": "Aguirre"
+    },
+    {
+      "player_id": "32683065-030D-6FFD-1A66-1906262BE814",
+      "name": "Burke",
+      "surname": "Walls"
+    },
+    {
+      "player_id": "447D2C82-D94E-024F-5B48-65C688EF0421",
+      "name": "Sigourney",
+      "surname": "Robbins"
+    },
+    {
+      "player_id": "CAB6B824-FF3E-F101-2616-2D40679B0A25",
+      "name": "Todd",
+      "surname": "Hansen"
+    },
+    {
+      "player_id": "7863F549-F544-07DF-A52F-089D1FA4AB2A",
+      "name": "Kennan",
+      "surname": "Lang"
+    },
+    {
+      "player_id": "05762684-B6D3-0206-4B57-36B57EBFA9B2",
+      "name": "Perry",
+      "surname": "Pope"
+    },
+    {
+      "player_id": "00AC2459-E439-D661-7579-E612D29419B0",
+      "name": "Ivana",
+      "surname": "Smith"
+    },
+    {
+      "player_id": "5219B53B-F6A5-1BFD-F030-BFD50020AD5C",
+      "name": "Quin",
+      "surname": "Johnson"
+    },
+    {
+      "player_id": "704EDC6E-170A-D06F-2EBD-EEE76E1CDD61",
+      "name": "Charde",
+      "surname": "Durham"
+    },
+    {
+      "player_id": "7BB70829-EA12-6EEA-ED9E-BEAB97BFA96A",
+      "name": "Adena",
+      "surname": "Mayo"
+    },
+    {
+      "player_id": "843D395D-0192-8F3B-57AD-A2156D7BB728",
+      "name": "Dai",
+      "surname": "Rich"
+    },
+    {
+      "player_id": "BEFCD168-24BA-9E93-43C9-E7A7CE6B4283",
+      "name": "Karen",
+      "surname": "Pickett"
+    },
+    {
+      "player_id": "91B5077F-6896-D44E-9CCA-62743680671A",
+      "name": "Baker",
+      "surname": "Hoffman"
+    },
+    {
+      "player_id": "4C98D475-FB57-3DF0-E5D3-071CC4D06225",
+      "name": "Maggy",
+      "surname": "Frank"
+    },
+    {
+      "player_id": "AE1D06E3-C989-581C-4D90-EB178D4E800F",
+      "name": "Lareina",
+      "surname": "Battle"
+    },
+    {
+      "player_id": "B6E8E45F-2E01-4AA6-B301-85CD142A45EE",
+      "name": "Rahim",
+      "surname": "Contreras"
+    },
+    {
+      "player_id": "39952995-FF8A-E010-8873-DA6126EC37BC",
+      "name": "Elliott",
+      "surname": "Keller"
+    },
+    {
+      "player_id": "18CEECD8-25CA-E3FC-FBF5-50B40E0CEA04",
+      "name": "Chester",
+      "surname": "Hatfield"
+    },
+    {
+      "player_id": "4D8D2AA8-EE26-68FC-90F5-1ED27BFEDC56",
+      "name": "Marshall",
+      "surname": "Rivas"
+    },
+    {
+      "player_id": "47320F44-8EA6-741F-445B-668F83EEF7A7",
+      "name": "Destiny",
+      "surname": "Suarez"
+    },
+    {
+      "player_id": "0E4A7AA4-2A1C-2F75-0C1F-6790DA5EC382",
+      "name": "Kaseem",
+      "surname": "Martinez"
+    },
+    {
+      "player_id": "1A98792D-810D-EC56-D3D2-B0BD8CD685DF",
+      "name": "Hasad",
+      "surname": "Christian"
+    },
+    {
+      "player_id": "8C64B2AC-82F1-6586-A064-B5D1ECB4C208",
+      "name": "Kitra",
+      "surname": "Rivas"
+    },
+    {
+      "player_id": "1D136E77-D1CC-A56D-CC93-C3C5D6781CF3",
+      "name": "Grace",
+      "surname": "Holt"
+    },
+    {
+      "player_id": "4607744E-C979-7BEB-2745-AB10C2480C75",
+      "name": "Justin",
+      "surname": "Mcneil"
+    },
+    {
+      "player_id": "DBE5378E-F8FF-E386-E198-811390CBACA3",
+      "name": "Kevin",
+      "surname": "Hess"
+    },
+    {
+      "player_id": "B9AF5063-5349-E77A-DBCE-C27468F496F2",
+      "name": "Natalie",
+      "surname": "Jennings"
+    },
+    {
+      "player_id": "FD72724D-07C7-0CC5-A335-ACDB1E5FD71D",
+      "name": "Simon",
+      "surname": "Anthony"
+    },
+    {
+      "player_id": "510123C2-B388-BC21-8A79-410CFCEC6151",
+      "name": "Hilel",
+      "surname": "Dotson"
+    },
+    {
+      "player_id": "B65790DF-3885-68BD-9DBB-C6BB5B50E649",
+      "name": "Kalia",
+      "surname": "Burns"
+    },
+    {
+      "player_id": "3B56C281-D937-BE92-DBDB-B02A6F6418DC",
+      "name": "James",
+      "surname": "Landry"
+    },
+    {
+      "player_id": "EA0C931F-6FE1-A83E-B648-B9959E7ECD14",
+      "name": "Nash",
+      "surname": "Jordan"
+    },
+    {
+      "player_id": "8F9A294E-D785-3E7D-08E6-E5CB33A6FF2D",
+      "name": "Colleen",
+      "surname": "Boyer"
+    },
+    {
+      "player_id": "F09147A4-3895-5CB6-D58A-8364B51FD3D7",
+      "name": "Madonna",
+      "surname": "Workman"
+    },
+    {
+      "player_id": "88C39033-7879-E483-C3FB-0DFC38675558",
+      "name": "Colorado",
+      "surname": "Oneal"
+    },
+    {
+      "player_id": "A9AE4958-7A6E-8940-636E-F203B7C71110",
+      "name": "Kathleen",
+      "surname": "Atkinson"
+    },
+    {
+      "player_id": "A5726468-C498-0314-54B7-2DA1C9A34734",
+      "name": "Iris",
+      "surname": "Barrett"
+    },
+    {
+      "player_id": "8C885FBB-3C92-0DD1-F9C9-DDAA08C2F71D",
+      "name": "Yardley",
+      "surname": "Patrick"
+    },
+    {
+      "player_id": "E9DFB0CD-31DD-B4DF-5DA5-42BEFAC54BE9",
+      "name": "Flynn",
+      "surname": "Donaldson"
+    },
+    {
+      "player_id": "D48D1706-C0A1-FEEE-6FCB-68486F7F54C8",
+      "name": "Patrick",
+      "surname": "Weaver"
+    },
+    {
+      "player_id": "FCF8C269-8E0F-A281-277A-D47DF58AE0CD",
+      "name": "Charlotte",
+      "surname": "Randolph"
+    },
+    {
+      "player_id": "6D2EB401-1206-D702-0735-C715DB429941",
+      "name": "Bertha",
+      "surname": "Franklin"
+    },
+    {
+      "player_id": "F7C72CB5-6E25-D600-1691-DA44AEC5DB61",
+      "name": "Pandora",
+      "surname": "Mcknight"
+    },
+    {
+      "player_id": "72A33E01-070F-983D-2ACE-7AFEB16799C0",
+      "name": "Hiroko",
+      "surname": "Landry"
+    },
+    {
+      "player_id": "040A48BD-1124-3D57-0012-B5F124F46B7E",
+      "name": "Kirsten",
+      "surname": "Whitaker"
+    },
+    {
+      "player_id": "F6EFA101-139D-7799-07D1-66239CC33442",
+      "name": "Jeremy",
+      "surname": "Peters"
+    },
+    {
+      "player_id": "1647EEC4-78B7-1503-405F-A6BDC51AD2C5",
+      "name": "Yoko",
+      "surname": "Grimes"
+    },
+    {
+      "player_id": "95177BAC-4E22-90E0-C3BD-9548720F8289",
+      "name": "Rigel",
+      "surname": "Thompson"
+    },
+    {
+      "player_id": "834E0253-5A8F-FF36-C617-017B44E7EB6B",
+      "name": "Olga",
+      "surname": "Lynch"
+    },
+    {
+      "player_id": "2E4FB8C6-98AF-A2CB-72CB-8B2CA5953C7D",
+      "name": "Olympia",
+      "surname": "Charles"
+    },
+    {
+      "player_id": "8FE6F147-EC69-ABB4-304A-94875EF5234D",
+      "name": "Len",
+      "surname": "Hayes"
+    },
+    {
+      "player_id": "4F0C70F7-A9F9-D12B-85A0-AAF97AFBC3C6",
+      "name": "Wang",
+      "surname": "Mcgee"
+    },
+    {
+      "player_id": "99AF2D22-7B35-5809-76E9-B8D5243A93B3",
+      "name": "Teegan",
+      "surname": "Langley"
+    },
+    {
+      "player_id": "DFF66381-7D86-D9EB-CBE3-34ACBA6EC1EF",
+      "name": "Sonya",
+      "surname": "Yates"
+    },
+    {
+      "player_id": "6DB3194B-FF81-29B7-C926-8B0A5EEF3C9A",
+      "name": "Colette",
+      "surname": "Cash"
+    },
+    {
+      "player_id": "F072C4B9-656B-A1DE-645D-8FFD5719531A",
+      "name": "Neville",
+      "surname": "Mueller"
+    },
+    {
+      "player_id": "BE2FA13D-4F2E-F455-C5FC-426570C9B2DA",
+      "name": "Cairo",
+      "surname": "Cross"
+    },
+    {
+      "player_id": "BC67268B-C2D2-3836-0513-46AB904DFA70",
+      "name": "Elijah",
+      "surname": "Bowen"
+    },
+    {
+      "player_id": "47B2EA05-7B04-DA56-285F-12F01181F86A",
+      "name": "Wyatt",
+      "surname": "Berger"
+    }
+  ],
+  "team": [
+    {
+      "team_id": "BED78008-D0D2-C2B4-C1CE-3A8EDC824387",
+      "name": "Armadale"
+    },
+    {
+      "team_id": "AFD5FAAE-EC11-5833-1FC2-AD361E17EFA1",
+      "name": "Laakdal"
+    },
+    {
+      "team_id": "A8218AB2-559F-E4D2-DBCD-7C9F4D453290",
+      "name": "Okene"
+    },
+    {
+      "team_id": "F0908EA0-00EA-CE93-4627-5081B8358915",
+      "name": "Acerra"
+    },
+    {
+      "team_id": "974A9629-E81C-D5EA-2B12-17040559C8FA",
+      "name": "Nelson"
+    },
+    {
+      "team_id": "68CE0E1C-DA14-813A-DBC9-AA9742D1BD5C",
+      "name": "Melazzo"
+    },
+    {
+      "team_id": "D005B6D6-9DF3-7167-41BD-7F26948F3E95",
+      "name": "Glendale"
+    },
+    {
+      "team_id": "55B382DA-F560-C8EC-2B56-49C3B97A3CD9",
+      "name": "Chiniot"
+    },
+    {
+      "team_id": "2DDED6D0-46ED-3C03-05BD-CB35726133F0",
+      "name": "Saint Petersburg"
+    },
+    {
+      "team_id": "AEAF9705-B2F0-1546-97E1-73E4971356C0",
+      "name": "Reading"
+    },
+    {
+      "team_id": "E93B8910-D727-1DC3-EE6E-4193334346A9",
+      "name": "Madison"
+    },
+    {
+      "team_id": "358B2CBC-9C58-8D86-33A9-20FA7BBC4489",
+      "name": "Yemanzhelinsk"
+    },
+    {
+      "team_id": "02F5425F-FAF9-B86C-7F65-F1F21B6B0221",
+      "name": "Hofstade"
+    },
+    {
+      "team_id": "87F470AE-20FE-A8BF-C60C-46548FE4B1E1",
+      "name": "Prestatyn"
+    },
+    {
+      "team_id": "1B8FF4C8-0C22-434B-4F96-3ED95396BE39",
+      "name": "Dornoch"
+    },
+    {
+      "team_id": "4B11ECCF-9291-FEEB-C55C-3109619BF48E",
+      "name": "Oklahoma City"
+    },
+    {
+      "team_id": "8C580F9C-91E6-A08F-4348-4A083D7D0EFA",
+      "name": "Strijtem"
+    },
+    {
+      "team_id": "07448470-DA91-11AD-911D-9A8122CF3ED4",
+      "name": "My"
+    },
+    {
+      "team_id": "A93AAE11-E126-72AE-1950-3BFB7A718E01",
+      "name": "Cork"
+    },
+    {
+      "team_id": "6F72947C-5199-B2E1-F2CB-4703DD6ED782",
+      "name": "Sassocorvaro"
+    },
+    {
+      "team_id": "1348A4C7-11D6-83FA-A705-F8464F3FC6C1",
+      "name": "Bissegem"
+    },
+    {
+      "team_id": "A47F61D2-D1CC-CC53-BB9B-FD42E05EA300",
+      "name": "Tulita"
+    },
+    {
+      "team_id": "1A2DE1B4-261A-1A5E-7E9E-2ECB6DE6E420",
+      "name": "Grantham"
+    },
+    {
+      "team_id": "BE79F812-F179-74E1-9BD0-101072509F7D",
+      "name": "Eisenstadt"
+    },
+    {
+      "team_id": "7C002D47-156E-D4CE-BA77-66D954499CE4",
+      "name": "Iksan"
+    },
+    {
+      "team_id": "B8C76F65-54B0-7F09-4B97-BC802112B4BF",
+      "name": "Rueglio"
+    },
+    {
+      "team_id": "DF4D0EA4-3CA3-4DD7-C13A-FB7E0488998A",
+      "name": "Retiro"
+    },
+    {
+      "team_id": "E12326E6-A38C-52E8-9520-D2C7E8A08534",
+      "name": "Isle-aux-Coudres"
+    },
+    {
+      "team_id": "AB02A581-22F7-976D-885F-DB3735232ABA",
+      "name": "Quinta de Tilcoco"
+    },
+    {
+      "team_id": "73CD4E43-8B11-5279-25B5-4C862CC451E8",
+      "name": "Iquitos"
+    },
+    {
+      "team_id": "36B24016-3844-BE2F-B9D2-B00663FB582F",
+      "name": "Valle del Guamuez"
+    },
+    {
+      "team_id": "DF9F15E6-BFCB-F9A7-60E3-D4EFCC07FAD4",
+      "name": "Vanderhoof"
+    },
+    {
+      "team_id": "1B0CA5FC-FA16-649B-503E-308F6D93C33C",
+      "name": "Bagh"
+    },
+    {
+      "team_id": "C7E84D31-8102-9203-8193-5B80EAF367A5",
+      "name": "Rijkevorsel"
+    },
+    {
+      "team_id": "183BC08C-55F8-B4A1-2CC2-2406718C86D8",
+      "name": "Swan Hill"
+    },
+    {
+      "team_id": "46CF0678-6BBC-8260-C44D-1CF2270E546D",
+      "name": "Soacha"
+    },
+    {
+      "team_id": "39B15005-81B7-423C-28D9-1E924BE464C6",
+      "name": "Desamparados"
+    },
+    {
+      "team_id": "F19286A9-53B2-0662-6ED1-045BFE5F2F4A",
+      "name": "GomzŽ-Andoumont"
+    },
+    {
+      "team_id": "4BE68C47-93CA-9240-559C-CC4CCEDDDBFC",
+      "name": "Leernes"
+    },
+    {
+      "team_id": "753A51B9-CB36-3B68-BF41-B12B47667362",
+      "name": "Whitby"
+    },
+    {
+      "team_id": "A8AE1295-A0D7-D9F1-75EC-CA0F356F049E",
+      "name": "Halisahar"
+    },
+    {
+      "team_id": "DD387787-9834-0B7E-A502-94FD6C15AF08",
+      "name": "Albagiara"
+    },
+    {
+      "team_id": "1103434C-972B-01D1-1CC9-349CFAC72894",
+      "name": "Fort Collins"
+    },
+    {
+      "team_id": "96E9DA92-9C50-0B69-563C-D1FEBADDE0E9",
+      "name": "Darbhanga"
+    },
+    {
+      "team_id": "3047B2EF-5306-0CAB-0270-F7132223B335",
+      "name": "Las Palmas"
+    },
+    {
+      "team_id": "7A9F1114-6F8D-BCEB-3B4B-53C0E39FC69A",
+      "name": "Cognelee"
+    },
+    {
+      "team_id": "92B8CD3F-439B-155D-7490-788AD692570E",
+      "name": "Eisenstadt"
+    },
+    {
+      "team_id": "7EE797F5-CC12-1D43-A185-2466A5B79EB3",
+      "name": "Taltal"
+    },
+    {
+      "team_id": "BF3277AD-0E75-3AF2-6F1D-B76A6803A41C",
+      "name": "Portici"
+    },
+    {
+      "team_id": "35238B00-16BD-0AE0-21EC-EACFAA254296",
+      "name": "Caldarola"
+    },
+    {
+      "team_id": "39435140-3E03-D825-12AE-0952DF5C8D14",
+      "name": "Dignano"
+    },
+    {
+      "team_id": "684BF635-9E0F-C029-9A0F-508DF45ABB7E",
+      "name": "Palma de Mallorca"
+    },
+    {
+      "team_id": "4FB83FCA-6AB1-9AE9-1705-C8BCC846C1DC",
+      "name": "Wachtebeke"
+    },
+    {
+      "team_id": "CC5195B5-A067-F5EB-B448-45666C3EB7B8",
+      "name": "Crecchio"
+    },
+    {
+      "team_id": "B4E784A0-E20F-B368-BF86-5B52A82BAFFB",
+      "name": "Pointe-du-Lac"
+    },
+    {
+      "team_id": "3D634760-5DA2-2B56-F45A-AA40708E4A6A",
+      "name": "Logan City"
+    },
+    {
+      "team_id": "DD29F33E-4C87-5A11-DE6C-81787C71713E",
+      "name": "Birmingham"
+    },
+    {
+      "team_id": "4EF26BCE-963A-B8DF-AE52-0C6A875346BC",
+      "name": "Buckley"
+    },
+    {
+      "team_id": "7BE687E2-0819-DE66-33B8-9E2F98363CD3",
+      "name": "Ukkel"
+    },
+    {
+      "team_id": "88DC9CE5-4FE3-9BE1-B207-D141EA3F468C",
+      "name": "Brive-la-Gaillarde"
+    },
+    {
+      "team_id": "5D1BB960-50DD-2CAE-CA3F-DDE0BEC6FCD3",
+      "name": "Oelegem"
+    },
+    {
+      "team_id": "84AB4CE0-C757-1CF0-700E-3DFA6E972232",
+      "name": "Antwerpen"
+    },
+    {
+      "team_id": "F7B7B4B5-D955-638F-7CD7-94E8B259D28C",
+      "name": "Pordenone"
+    },
+    {
+      "team_id": "80AEA50C-D7C6-180B-AB49-A747F01D9E6D",
+      "name": "Gloucester"
+    },
+    {
+      "team_id": "DC2C9744-C397-577C-5E2E-B272E2976D86",
+      "name": "Hoyerswerda"
+    },
+    {
+      "team_id": "02B825DB-71EA-74C8-319C-F4B3D97EF110",
+      "name": "Melton"
+    },
+    {
+      "team_id": "6C4109FC-E560-D38C-F8F9-B92EB667C897",
+      "name": "Kamarhati"
+    },
+    {
+      "team_id": "2445C545-5636-3A5B-9F59-DC5CD11B6254",
+      "name": "Juseret"
+    },
+    {
+      "team_id": "8C68845B-26A9-5BDB-52D5-47A8D9165308",
+      "name": "Burlington"
+    },
+    {
+      "team_id": "08473D60-A0A0-8214-160E-91A33D93EB3D",
+      "name": "Isla de Maipo"
+    },
+    {
+      "team_id": "6EB67986-8C03-E816-5676-C186BD856D08",
+      "name": "Onze-Lieve-Vrouw-Lombeek"
+    },
+    {
+      "team_id": "0B30DAD9-938F-C203-F1FA-66175B3E5EFE",
+      "name": "San Joaquín"
+    },
+    {
+      "team_id": "74CC6784-5B08-9B82-6E87-04032CF41A3F",
+      "name": "Malahide"
+    },
+    {
+      "team_id": "5C48799E-8E64-63A2-B4E0-2D9C88972A74",
+      "name": "Mataró"
+    },
+    {
+      "team_id": "A7DC087A-65EA-E905-5D7A-2A12C2FC3DDC",
+      "name": "Cicagna"
+    },
+    {
+      "team_id": "48F3153E-BAA7-5B50-6641-F8556DF1E3D0",
+      "name": "Heestert"
+    },
+    {
+      "team_id": "3932D8B3-0644-9930-68CE-FE7DF7ED0E75",
+      "name": "Lauder"
+    },
+    {
+      "team_id": "F477CB5E-BD57-5180-CF9A-FAA2DFD55A2D",
+      "name": "Grado"
+    },
+    {
+      "team_id": "38D3DDD3-6884-08B5-9F0F-A54CB10C4648",
+      "name": "Kallo"
+    },
+    {
+      "team_id": "E925D574-6C2E-5E95-3E2C-DA52C80AF5D2",
+      "name": "Fort William"
+    },
+    {
+      "team_id": "91AE08EE-90FE-FE79-05C1-6C04899432D5",
+      "name": "Lochristi"
+    },
+    {
+      "team_id": "8429E48C-D4C2-36CF-9F67-88DF0710FCAC",
+      "name": "Vejalpur"
+    },
+    {
+      "team_id": "B9FC7C95-FACE-1530-7172-865A31AAE45F",
+      "name": "Pelluhue"
+    },
+    {
+      "team_id": "DBCEEBA9-9224-C2B7-5257-A2908728449A",
+      "name": "Portland"
+    },
+    {
+      "team_id": "9968EB7E-0EB4-AD77-6036-D0E980C2787E",
+      "name": "Gifhorn"
+    },
+    {
+      "team_id": "C4687E55-7463-1DAA-FA69-EBBE04F61404",
+      "name": "María Elena"
+    },
+    {
+      "team_id": "B44FA58B-6604-6373-9A23-6049B770FE37",
+      "name": "Chiquinquirá"
+    },
+    {
+      "team_id": "CBAACC3F-D645-80FC-C351-8BB758359D7C",
+      "name": "Paço do Lumiar"
+    },
+    {
+      "team_id": "A4362753-758D-BD8A-2419-3C2961BC4D29",
+      "name": "Guri"
+    },
+    {
+      "team_id": "B08B180D-0745-B008-3A26-0BB691E3536C",
+      "name": "Charleville-Mézières"
+    },
+    {
+      "team_id": "7F6D4F71-6520-A79E-33C1-8BFB66356F52",
+      "name": "Pocatello"
+    },
+    {
+      "team_id": "78458769-6416-432C-4ED4-17C54FB893CE",
+      "name": "Istra"
+    },
+    {
+      "team_id": "60BF376C-C5EA-09E5-AE7B-2E788A43C26E",
+      "name": "Port Hope"
+    },
+    {
+      "team_id": "05211E82-30D8-6973-B5DF-CC299BCC8F58",
+      "name": "Pozzuolo del Friuli"
+    },
+    {
+      "team_id": "4194A2DC-5FD4-AD54-FBB1-49A356844158",
+      "name": "Paternopoli"
+    },
+    {
+      "team_id": "F5E5DA66-D80B-0FF0-508D-A6663C6111F1",
+      "name": "Vielsalm"
+    },
+    {
+      "team_id": "74CFF371-7180-AF0D-4F95-61564D9F7CBE",
+      "name": "Thanjavur"
+    },
+    {
+      "team_id": "6659FB44-4BD7-3A07-2EB8-175041718914",
+      "name": "Schiltigheim"
+    },
+    {
+      "team_id": "3BD1EC13-2599-32A9-F0A8-6DFD9BA81B65",
+      "name": "Eckernförde"
+    },
+    {
+      "team_id": "9AA902CE-1412-67FD-C1E2-EE60D753B870",
+      "name": "Banjarmasin"
+    }
+  ],
+  "admonition": [
+  ],
+  "expulsion": [
+  ],
+  "change": [],
+  "game-player": [
+    {
+      "game_id": "7FB48972-457A-7085-BB08-CD4D47706419",
+      "home_team_player": [
+        {
+          "number": 1,
+          "player_id": "00AC2459-E439-D661-7579-E612D29419B0",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 2,
+          "player_id": "F9E8B145-53C6-D50A-838A-A96BA8B415B7",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 3,
+          "player_id": "F09147A4-3895-5CB6-D58A-8364B51FD3D7",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 4,
+          "player_id": "F7C72CB5-6E25-D600-1691-DA44AEC5DB61",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 5,
+          "player_id": "F7C72CB5-6E25-D600-1691-DA44AEC5DB61",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 6,
+          "player_id": "8C64B2AC-82F1-6586-A064-B5D1ECB4C208",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 7,
+          "player_id": "6DB3194B-FF81-29B7-C926-8B0A5EEF3C9A",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 8,
+          "player_id": "88B2ECA3-08EE-E9FC-77CA-5B0A72231C12",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 9,
+          "player_id": "B65790DF-3885-68BD-9DBB-C6BB5B50E649",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 10,
+          "player_id": "9BE76AE7-49A1-B4B9-BE86-48333B116E1C",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 11,
+          "player_id": "F641833E-19F0-F2A2-CFE7-115706909604",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 12,
+          "player_id": "1D136E77-D1CC-A56D-CC93-C3C5D6781CF3",
+          "starting_player": false,
+          "capitan": false
+        }
+      ],
+      "away_team_player": [
+        {
+          "number": 1,
+          "player_id": "BEFCD168-24BA-9E93-43C9-E7A7CE6B4283",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 2,
+          "player_id": "ABF95C81-D16C-B26B-0E96-4E42D6A0F2BA",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 3,
+          "player_id": "F5FF708F-7A73-3397-EC9F-C558AE034267",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 4,
+          "player_id": "BEFCD168-24BA-9E93-43C9-E7A7CE6B4283",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 5,
+          "player_id": "F6EFA101-139D-7799-07D1-66239CC33442",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 6,
+          "player_id": "F9E8B145-53C6-D50A-838A-A96BA8B415B7",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 7,
+          "player_id": "8C64B2AC-82F1-6586-A064-B5D1ECB4C208",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 8,
+          "player_id": "F072C4B9-656B-A1DE-645D-8FFD5719531A",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 9,
+          "player_id": "80A94BDC-F1A4-EFA3-4B3B-08C5F728CA62",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 10,
+          "player_id": "8FE6F147-EC69-ABB4-304A-94875EF5234D",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 11,
+          "player_id": "47B2EA05-7B04-DA56-285F-12F01181F86A",
+          "starting_player": true,
+          "capitan": false
+        },
+        {
+          "number": 12,
+          "player_id": "4D8D2AA8-EE26-68FC-90F5-1ED27BFEDC56",
+          "starting_player": false,
+          "capitan": false
+        }
+      ]
+    }
+  ]
+}
